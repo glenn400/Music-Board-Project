@@ -1,0 +1,22 @@
+clock 
+http://fpga4fun.com/MusicBox1.html
+c scale 
+http://www.phy.mtu.edu/~suits/notefreqs.html
+
+http://www.ronelmm.com/tones/cscale.html
+
+keyboard
+http://students.iitk.ac.in/eclub/assets/tutorials/keyboard.pdf
+
+create integers arrays
+http://verilogams.com/refman/basics/variables.html
+
+http://stackoverflow.com/questions/11513312/how-to-initialize-an-array-of-integers
+
+lab7 instructions
+
+lab6 instructions
+
+lab 11 instructions
+
+Professor Lei 

@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\CMPE 3432\Downloads\project1125\projectMuisc\Project.ncd
+OUTFILE=C:\Users\CMPE 3432\Downloads\project1125\projectMuisc\Project.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=C:\Users\CMPE 3432\Downloads\project1125\projectMuisc
+LICENSE=WebPack
+USER_INFO=210766423_1777493474_0_719

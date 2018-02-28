@@ -1,0 +1,33 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Sun Dec 04 19:15:07 2016
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "clk" LOCATE = SITE "V10" LEVEL 1;
+COMP "Sseg<0>" LOCATE = SITE "M13" LEVEL 1;
+COMP "Sseg<1>" LOCATE = SITE "L14" LEVEL 1;
+COMP "Sseg<2>" LOCATE = SITE "N14" LEVEL 1;
+COMP "Sseg<3>" LOCATE = SITE "M14" LEVEL 1;
+COMP "Sseg<4>" LOCATE = SITE "U18" LEVEL 1;
+COMP "Sseg<5>" LOCATE = SITE "U17" LEVEL 1;
+COMP "Sseg<6>" LOCATE = SITE "T18" LEVEL 1;
+COMP "Sseg<7>" LOCATE = SITE "T17" LEVEL 1;
+COMP "state<0>" LOCATE = SITE "T11" LEVEL 1;
+COMP "state<1>" LOCATE = SITE "R11" LEVEL 1;
+COMP "state<2>" LOCATE = SITE "N11" LEVEL 1;
+COMP "state<3>" LOCATE = SITE "M11" LEVEL 1;
+COMP "speaker" LOCATE = SITE "T12" LEVEL 1;
+COMP "k_dat" LOCATE = SITE "J13" LEVEL 1;
+COMP "AN0" LOCATE = SITE "N16" LEVEL 1;
+COMP "k_clk" LOCATE = SITE "L12" LEVEL 1;
+COMP "AN1" LOCATE = SITE "N15" LEVEL 1;
+COMP "AN2" LOCATE = SITE "P18" LEVEL 1;
+COMP "AN3" LOCATE = SITE "P17" LEVEL 1;
+COMP "reset" LOCATE = SITE "B8" LEVEL 1;
+PIN reset_pin<0> = BEL "reset" PINNAME PAD;
+PIN "reset_pin<0>" CLOCK_DEDICATED_ROUTE = FALSE;
+COMP "clk_user" LOCATE = SITE "T10" LEVEL 1;
+PIN clk_user_pin<0> = BEL "clk_user" PINNAME PAD;
+PIN "clk_user_pin<0>" CLOCK_DEDICATED_ROUTE = FALSE;
+SCHEMATIC END;
+
